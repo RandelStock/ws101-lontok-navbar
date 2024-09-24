@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ws101-lontok-navbar/static/css/main.ce8e693b.css",
+    "main.js": "/ws101-lontok-navbar/static/js/main.3e5499c8.js",
+    "index.html": "/ws101-lontok-navbar/index.html",
+    "main.ce8e693b.css.map": "/ws101-lontok-navbar/static/css/main.ce8e693b.css.map",
+    "main.3e5499c8.js.map": "/ws101-lontok-navbar/static/js/main.3e5499c8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ce8e693b.css",
+    "static/js/main.3e5499c8.js"
+  ]
+}
